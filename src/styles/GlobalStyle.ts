@@ -11,9 +11,9 @@ export const GlobalStyle = createGlobalStyle`
 `
 export const colors = {
   primary: "#2B75E2",
-  secondary: "#FFC107",
+  secondary: "#F9C593",
   secondaryLight: "#f0dea5",
-  third: "#78909C",
+  third: "#CC063E",
   thirdLight: "#d9d9d9",
   black: "#000",
   white: "#fff"
